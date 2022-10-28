@@ -1,7 +1,7 @@
 **FOLDERS** is a simple component that creates folders in the local directory
 relative to the project folder.  
 Since a number of my components have default locations for externally synced tables, 
-extensions etc., I use this to  define and guarantee a consistent local file structure
+extensions etc.,  I use this to  define and guarantee a consistent local file structure
 
 To modify, customize this component and add any number of folder paramaters to 
 the Folders page. 
