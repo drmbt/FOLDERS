@@ -18,6 +18,6 @@ the project is launched.
 
 this component is a part of HIVE, a collection of tools by @drmbt
 
-[instagram.com/drmbt](instagram.com/drmbt)  
-[patreon.com/drmbt](patreon.com/drmbt)  
-[github.com/drmbt/FOLDERS](github.com/drmbt/FOLDERS)
+[instagram.com/drmbt](https://instagram.com/drmbt)  
+[patreon.com/drmbt](https://patreon.com/drmbt)  
+[github.com/drmbt/FOLDERS](https://github.com/drmbt/FOLDERS)
